@@ -1,0 +1,98 @@
+<!DOCTYPE html>  
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="author" content="Page Content-Personality">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Personal Profile Page</title>
+<link rel="stylesheet" href="styles.css" />
+
+<style>
+body {background-color: lavender;}
+h2 {color:purple;font-family:Times New Roman;}
+h3 {color:black;font-family:Times New Roman;}
+p {color:black;font-size:18px;}
+</style>
+
+
+</head>
+<body>
+
+<section id="personality" class="card"> 
+<h1><center><span style='font-size:50px;'>&#127803;</span> Personality - A Strong Foundation <span style='font-size:50px;'>&#128221;</span></center></h1>
+
+<h3>My Personality Traits-Impacts on my Studies</h3>
+           <ol>
+        <li><strong>Affable:</strong> I connect easily with classmates and lecturers; this helps build teamwork and support networks for group projects.</li>
+        <li><strong>Industrious:</strong> I keep to study schedules, submit assignments on time, and pursue extra practice to improve technical skills.</li>
+        <li><strong>Poised:</strong> Calm presence helps during presentations and when leading group tasks — helps reduce stress in teams.</li>
+      </ol>
+    </section>
+
+
+
+<p> <span style='font-size:20px;'>&#128204;</span> In university, diversity stands out the most... A smile a day keeps the stress away.</p>
+<p><span style='font-size:20px;'>&#128204;</span> I’ve never liked waiting on someone to hand me anything... I’m now here, doing my absolute best to obtain my degree with honours.</p>
+<p><span style='font-size:20px;'>&#128204;</span> Much grace, kindness, and balance are necessary in navigating university... Keep strong, keep calm, stay focused.</p>
+
+<hr>
+
+
+<section id="hero" class="card">
+  <h1><center><span style='font-size:35px;'>&#128147;</span>My Hero-Garfield Wilks (Uncle Juicy) <span style='font-size:20px;'>&#128147;</span></center></h1>
+  <p>When I think of my uncle, I think of my ancestors. He has been there for me in more ways than I can count — from the time I was a baby, through my childhood, teenage years, and now as an adult. My uncle has always shown up for me and my children, no matter how far he travels. His dedication, humor, and humility make him a truly significant figure in my life.</p>
+
+  <p>My favorite quote from my uncle carries deep Jamaican wisdom: <em>“You affi lick arse before you can kick arse.”</em> In essence, he means that before you can succeed or rise to the top, you must first serve, learn, and go through challenges. This quote reminds me to stay grounded and humble, knowing that true success comes after effort and growth.</p>
+</section>
+
+<section id="ai" class="card" >
+  <h1><center> <span style='font-size:30px;'>&#128184;</span>AI for Fraud Detection and Prevention in Banking<span style='font-size:30px;'>&#129302;</span></center></h1>
+
+  <p>    Artificial Intelligence (AI) is transforming the way banks identify and prevent fraud. 
+    In 2024 alone, the UK lost approximately <strong>£570 million</strong>, 
+    and the United States lost nearly <strong>$10 billion</strong> due to payment fraud. 
+    These staggering figures highlight why banking institutions are turning to AI as a powerful tool for protection.
+  </p>
+
+  <h2>Application in My World</h2>
+  <p>AI-powered fraud detection can be used to safeguard online and mobile transactions that people like myself perform daily. 
+    As digital banking becomes more common in Jamaica, AI systems can analyze large amounts of financial data in real time 
+    to detect unusual activity. This would reduce risks for students, families, and local businesses who rely on online banking for convenience.
+  </p>
+
+  <h2>Usefulness</h2>
+  <p>The technology helps banks and customers by spotting suspicious transactions early, preventing losses before they occur. 
+    It can learn and adapt to new methods that fraudsters use, making it far more effective than traditional rule-based systems. 
+    This saves time, builds trust, and strengthens financial stability in the digital economy. </p>
+
+  <h2>Ethical Concerns and Solutions</h2>
+  <p>  One ethical concern is the handling of personal data. AI systems must analyze large volumes of customer information, 
+    which raises privacy and security issues. Another concern is the possibility of false positives — where legitimate users 
+    are wrongly flagged as suspicious. To address these, banks should ensure transparency, use secure encryption, 
+    and allow customers to verify flagged transactions easily. Strict adherence to data protection laws and fairness 
+    in AI decision-making are also essential.</p>
+
+  <h2>Real-World Example</h2>
+  <p>A strong example of AI-driven fraud prevention is 
+    <a href="https://www.darktrace.com" target="_blank">Darktrace</a>. 
+    This company uses machine learning to detect abnormal patterns in network traffic and financial transactions, 
+    alerting users before fraud occurs. Its adaptive learning model continuously improves, 
+    keeping pace with evolving cyber threats.  </p>
+
+
+  <footer>
+  &copy; 2025 Monique Thomas-Bent | All Rights Reserved
+  
+    Contact: 
+    <a href="mailto:MONIQUENTHOMAS-BENT@students.utech.edu.jm">Email Me</a> |
+    <b>GitHub:</b> 
+    <a href="https://github.com/Monique-Naje" target="_blank" rel="noopener">
+      github.com/Monique-Naje</a>
+</br>
+  <a href="#top">Back to Top</a>
+
+
+</footer>
+
+</body>
+</html>

@@ -1,0 +1,100 @@
+<!DOCTYPE html>  
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="author" content="Page Content- Professional Overview">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Personal Profile Page</title>
+<link rel="stylesheet" href="styles.css" />
+
+<style>
+body {background-color: lavender;}
+h2 {color:purple;font-family:Times New Roman;}
+h3 {color:black;font-family:Times New Roman;}
+p {color:black;font-size:18px;}
+</style>
+
+
+</head>
+<body>
+
+
+<h1><center>A Reflection of Monique - Professional Review <span style='font-size:100px;'>&#128220;</span></center></h1>
+
+<section id="resume" class="card">
+<h2><ul>Professional Background</ul></h2>
+
+</br>
+<article class="resume-block">
+<h2>Experience</h2>
+<div class="work">
+<h3> Customer Service Representative-Conduent</h3>
+
+
+
+ <p class="date">Nov 2018 – Dec 2022</p>
+          <ul>
+            <li>Answered inbound calls and provided professional customer service.</li> 
+            <li>Checked service availability, resolved customer questions and complaints.</li> 
+            <li>Documented interactions </li>
+
+      <li>engaged in community service initiatives.</li>
+          </ul>
+        </div>
+
+
+<h3>Education</h3>
+        <p><strong>University of Technology, Jamaica</strong> — Bachelor of Science in Computing (2025 — current)</p>
+        <p><strong>Old Harbour High School</strong> (2010 — 2016)</p>
+
+<hr>
+
+<h3>Skills</h3>
+        <ol>
+          <li>Effective Communication</li>
+          <li>Active Listening</li>
+          <li>Problem Solving</li>
+          <li>Time Management</li>
+          <li>Empathy</li>
+        </ol>
+
+        <p><a href="../Assets/Monique_Thomas_resume_updated.pdf" target="_blank" rel="noopener">Download full resume (PDF)</a> 
+      </article>
+    </section>
+
+
+
+
+
+
+<section id="vision" class="card">
+<h1><center><span style='font-size:50px;'>&#127803;</span> Open the eyes of my heart, Lord - My Vision Statement <span style='font-size:50px;'>&#128221;</span></center></h1>
+
+<p>After completing my degree successfully in 2028, I hope to open a business with that degree and also be granted the opportunity to work in an excellent job. I want to utilize the knowledge and skills I've gained to make a positive impact, not only for myself but also for my family, community, and those who look up to me. There’s no limit in God and certainly none for me...</p>
+<p><i>A vision defines where you want to be in the future.</i></p>
+ 
+
+<section id="mission" class="card">
+<h1><center><span style='font-size:50px;'>&#127803;</span> My Mission Statement <span style='font-size:50px;'>&#128221;</span></center></h1>
+<p>My mission is to strengthen my ministry in Christ while working diligently to ensure that my children, mother, uncle, and family are comfortable and well supported. These commitments are my true raison d’être—my reason for being. In the future, I aspire to become a philanthropist, using my blessings and experiences to give back, empower others, and make a lasting impact in the lives of those in need.</p>
+
+
+
+</section>
+
+  <footer>
+  &copy; 2025 Monique Thomas-Bent | All Rights Reserved
+  
+    Contact: 
+    <a href="mailto:MONIQUENTHOMAS-BENT@students.utech.edu.jm">Email Me</a> |
+    <b>GitHub:</b> 
+    <a href="https://github.com/Monique-Naje" target="_blank" rel="noopener">
+      github.com/Monique-Naje</a>
+</br>
+  <a href="#top">Back to Top</a>
+
+
+</footer>
+
+</body>
+</html>

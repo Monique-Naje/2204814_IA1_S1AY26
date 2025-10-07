@@ -1,0 +1,374 @@
+<!DOCTYPE html>  
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="author" content="Monique Thomas-Bent">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Personal Profile Page</title>
+<link rel="stylesheet" href="styles.css" />
+
+<style>
+h2 {color:purple;font-family:Times New Roman;}
+h3 {color:black;font-family:Times New Roman;}
+p {color:black;font-size:18px;}
+</style>
+
+</head>
+<body>
+
+<header>
+<div class="brand">
+
+<h1><u><center>A Reflection of Monique - A Mastered ME <span style='font-size:90px;'>&#128221;</span></center></u></h1>
+
+<h1><center>Welcome to my Personalized and Professional Portfolio <span style='font-size:80px;'>&#9997;</span></center></h1><br>
+
+
+<img src="../Assets/Pic3.jpg" alt="Image not found" height="20%" width="20%" align="left" style="border-radius:50%;" />
+<img src="../Assets/Pic5.jpg" alt="Image not found" height="20%" width="20%" align="center" style="border-radius:50%;" />
+<img src="../Assets/Pic4.jpg" alt="Image not found" height="20%" width="20%" align="right" style="border-radius:50%;" />
+<img src="../Assets/Pic2.jpg" alt="Image not found" height="20%" width="20%" align="right" style="border-radius:50%;" />
+<img src="../Assets/Pic1.jpg" alt="Image not found" height="20%" width="20%" align="right" style="border-radius:50%;" />
+</div>
+
+<h1>Monique Thomas-Bent <span style='font-size:20px;'>&#128142;</span></h1>
+<h1>Where beautiful minds Inspire others <span style='font-size:20px;'>&#128149;</span></h1>
+
+
+</div>
+
+
+
+
+<nav label="main navigation">
+<ul class="nav-list">
+  <li><a href="#about">About Me</a></li>
+  <li><a href="#resume">Resume</a></li>
+  <li><a href="#vision">Vision</a></li>
+  <li><a href="#mission">Mission</a></li>
+  <li><a href="#personality">Personality</a></li>
+  <li><a href="#hero">My Hero</a></li>
+  <li><a href="#ai">ai</AI Review</a></li>
+  <li><a href="#development">Personal Development</a></li>
+  <li><a href="#favourites">Favourites</a></li>
+  <li><a href="https://www.utech.edu.jm"
+target="_blank" rel="noopener">UTech Website</a></li>
+</ul>
+</nav>
+</header>
+
+<main>
+<section id="about" class="card">
+
+<figure class="profile">
+                  <a href="mailto:MONIQUENTHOMAS-BENT@students.utech.edu.jm">
+                        <img src="../Assets/ProfilePic.jpg" alt="Image not found" height="10%" width="10%" align="left" style="border-radius:10%;" />
+        </a>
+          <figcaption>Click photo to email me</figcaption>
+        </figure>
+<h2>About Me<span style='font-size:30px;'>&#128133;</span></h2>
+<div class="about-section">
+<article class="my background">
+
+<p><b>Name:</b> Monique Thomas-Bent</b></p>
+<p><b>Programme:</b> BSc Computing — University of Technology, Jamaica</b></p>
+<p><b>Year:</b> 2025 - Current</b></p>
+<p><strong>Email:</strong> 
+<a href="mailto:MONIQUENTHOMAS-BENT@students.utech.edu.jm">MONIQUENTHOMAS-BENT@students.utech.edu.jm</a></p>
+<p><strong>Address:</strong>Old Harbour P.O., St. Catherine, Jamaica. </strong></a></p>
+<p><b>GitHub:</b> 
+    <a href="https://github.com/Monique-Naje" target="_blank" rel="noopener">
+      github.com/Monique-Naje
+</article>
+
+
+
+
+</div>
+</section>
+
+<hr>
+
+
+<h1><center>A Reflection of Monique - Professional Review <span style='font-size:100px;'>&#128220;</span></center></h1>
+
+<section id="resume" class="card">
+<h2>Professional Background</h2>
+
+<article class="resume-block">
+<h2>EXPERIENCE</h3>
+<div class="work">
+<h3> Customer Service Representative-Conduent</h3>
+
+
+
+ <p class="date">Nov 2018 – Dec 2022</p>
+          <ul>
+            <li>Answered inbound calls and provided professional customer service.</li>
+            <li>Checked service availability, resolved customer questions and complaints.</li>
+            <li>Documented interactions and engaged in community service initiatives.</li>
+          </ul>
+        </div>
+
+
+<h3>Education</h3>
+        <p><strong>University of Technology, Jamaica</strong> — Bachelor of Science in Computing (2025 — current)</p>
+        <p><strong>Old Harbour High School</strong>(2010 — 2016)</p>
+
+
+
+<h3>Skills</h3>
+        <ol>
+          <li>Effective Communication</li>
+          <li>Active Listening</li>
+          <li>Problem Solving</li>
+          <li>Time Management</li>
+          <li>Empathy</li>
+        </ol>
+
+        <p><a href="../Assets/Monique_Thomas_resume_updated.pdf" target="_blank" rel="noopener">Download full resume (PDF)</a> 
+      </article>
+    </section>
+
+
+
+
+
+
+<section id="vision" class="card">
+<h1><center><span style='font-size:50px;'>&#127803;</span> Open the eyes of my heart, Lord - My Vision Statement <span style='font-size:50px;'>&#128221;</span></center></h1>
+
+<p>After completing my degree successfully in 2028, my hope is to open a business with that degree and also be granted the opportunity to work in an excellent job. I want to use the knowledge and skills I gain to make a positive impact, not only for myself but also for my family, community, and those who look up to me. There’s no limit in God and certainly none for me...</p>
+<p><i>A vision defines where you want to be in the future.</i></p>
+ 
+
+<section id="mission" class="card">
+<h1><center><span style='font-size:50px;'>&#127803;</span> My Mission Statement <span style='font-size:50px;'>&#128221;</span></center></h1>
+<p>My mission is to strengthen my ministry in Christ, while working diligently to ensure that my children, mother, uncle, and family are comfortable and well supported. These commitments are my true raison d’être...</p>
+</section>
+
+<section id="personality" class="card"> 
+<h1><center><span style='font-size:50px;'>&#127803;</span> Personality - A Strong Foundation <span style='font-size:50px;'>&#128221;</span></center></h1>
+
+<h3>My Personality Traits- Impacts on my Studies</h3>
+           <ol>
+        <li><strong>Affable:</strong> I connect easily with classmates and lecturers; this helps build teamwork and support networks for group projects.</li>
+        <li><strong>Industrious:</strong> I keep to study schedules, submit assignments on time, and pursue extra practice to improve technical skills.</li>
+        <li><strong>Poised:</strong> Calm presence helps during presentations and when leading group tasks — helps reduce stress in teams.</li>
+      </ol>
+    </section>
+
+
+
+<p> <span style='font-size:20px;'>&#128204;</span> In university, diversity stands out the most... A smile a day keeps the stress away.</p>
+<p><span style='font-size:20px;'>&#128204;</span> I’ve never liked waiting on someone to hand me anything... I’m now here, doing my absolute best to obtain my degree with honours.</p>
+<p><span style='font-size:20px;'>&#128204;</span> Much grace, kindness and balance is necessary in navigating university... Keep strong, keep calm, stay focused.</p>
+
+<hr>
+
+
+<section id="hero" class="card">
+  <h1><center><span style='font-size:35px;'>&#128147;</span>My Hero-Garfield Wilks (Uncle Juicy) <span style='font-size:35px;'>&#128147;</span></center></h1>
+  <p>When I think of my uncle, I think of my ancestors. He has been there for me in more ways than I can count — from the time I was a baby, through my childhood, teenage years, and now as an adult. My uncle has always shown up for me and my children, no matter how far he travels. His dedication, humor, and humility make him a truly significant figure in my life.</p>
+
+  <p>My favorite quote from my uncle is one that carries deep Jamaican wisdom: <em>“You affi lick arse before you can kick arse.”</em> In essence, he means that before you can succeed or rise to the top, you must first serve, learn, and go through challenges. This quote reminds me to stay grounded and humble, knowing that true success comes after effort and growth.</p>
+</section>
+
+<section id="ai" class="card" >
+  <h1><center> <span style='font-size:30px;'>&#128184;</span>AI for Fraud Detection and Prevention in Banking<span style='font-size:30px;'>&#129302;</span></center></h1>
+
+  <p>    Artificial Intelligence (AI) is transforming the way banks identify and prevent fraud. 
+    In 2024 alone, the UK lost approximately <strong>£570 million</strong>, 
+    and the United States lost nearly <strong>$10 billion</strong> due to payment fraud. 
+    These staggering figures highlight why banking institutions are turning to AI as a powerful tool for protection.
+  </p>
+
+  <h2>Application in My World</h2>
+  <p>AI-powered fraud detection can be used to safeguard online and mobile transactions that people like myself perform daily. 
+    As digital banking becomes more common in Jamaica, AI systems can analyze large amounts of financial data in real time 
+    to detect unusual activity. This would reduce risks for students, families, and local businesses who rely on online banking for convenience.
+  </p>
+
+  <h2>Usefulness</h2>
+  <p>The technology helps banks and customers by spotting suspicious transactions early, preventing losses before they occur. 
+    It can learn and adapt to new methods that fraudsters use, making it far more effective than traditional rule-based systems. 
+    This saves time, builds trust, and strengthens financial stability in the digital economy. </p>
+
+  <h2>Ethical Concerns and Solutions</h2>
+  <p>  One ethical concern is the handling of personal data. AI systems must analyze large volumes of customer information, 
+    which raises privacy and security issues. Another concern is the possibility of false positives — where legitimate users 
+    are wrongly flagged as suspicious. To address these, banks should ensure transparency, use secure encryption, 
+    and allow customers to verify flagged transactions easily. Strict adherence to data protection laws and fairness 
+    in AI decision-making are also essential.</p>
+
+  <h2>Real-World Example</h2>
+  <p>A strong example of AI-driven fraud prevention is 
+    <a href="https://www.darktrace.com" target="_blank">Darktrace</a>. 
+    This company uses machine learning to detect abnormal patterns in network traffic and financial transactions, 
+    alerting users before fraud occurs. Its adaptive learning model continuously improves, 
+    keeping pace with evolving cyber threats.  </p>
+
+</section>
+
+<section id="development" class="card">
+<h1><center><i>Personal Development — Twelve Pillars (Chapters 4–7)<span style='font-size:30px;'>&#128218;</span></i></center></h1>
+
+
+<article class="pillar">
+    <h3>Chapter 4 — Achieve Your Goals</h3>
+    <p><em>Summary:</em> This chapter highlights that setting a goal is not just about achieving grand results but about who you'll become along the way. Michael learns from Charlie that success comes from defining clear goals, writing them down, and taking consistent action. The true reward lies in the personal growth and transformation experienced along the way.</p>
+    <p><em>Reflection:</em> I will begin setting specific academic and personal goals and now make them a apart of mission accomplished tasks—like completing a project—into smaller weekly targets. This method will help me track progress, stay motivated, and enjoy the growth that comes with disciplined goal pursuit.</p>
+  </article>
+
+  <article class="pillar">
+    <h3>Chapter 5 — The Proper Use of Time</h3>
+    <p><em>Summary:</em> Charlie explains that mastering time is essential for success. People must choose discipline over regret focusing on meaningful priorities rather than being controlled by urgency. Without a life goal, one risks living according to someone else’s schedule instead of their own purpose.</p>
+    <p><em>Reflection:</em> I must apply this by creating a daily timetable to balance study, family, and rest. I've decided to dedicate specific hours to coursework and limit distractions like social media. Managing my time wisely will help me stay productive and avoid the regret of wasted opportunities.</p>
+  </article>
+
+  <article class="pillar">
+    <h3>Chapter 6 — Surround Yourself with the Best People</h3>
+    <p><em>Summary:</em> This chapter significantly values the power of environment and association. Charlie tells Michael that the people around us influence our attitudes, structures, habits, and direction in life. We should connect with positive, ambitious, and supportive individuals who lift us higher as we grow.</p>
+    <p><em>Reflection:</em> I will evaluate my friendships and spend more time with people who inspire growth—such as mentors, classmates, and faith-based groups. I’ll also distance myself from negative influences and seek new connections that align with my goals and values.</p>
+  </article>
+
+  <article class="pillar">
+    <h3>Chapter 7 — Be a Life-Long Learner</h3>
+    <p><em>Summary:</em> Charlie teaches that while formal education builds a foundation, self-education creates lasting success. Reading, observing successful people, and reflecting on experiences are vital to continuous improvement. Lifelong learning keeps the mind sharp and the spirit growing.</p>
+    <p><em>Reflection:</em> I plan to make learning a daily habit by reading books, watching educational videos, and engaging in online courses about computing and leadership. I’ll also reflect weekly on what I’ve learned to apply it in practical ways that helps me stay adaptable and inspired in all areas of life.</p>
+  </article>
+</section>
+
+
+<section id="storyboard" class"card">
+<h1><center>Storyboard & UI Layout (Mobile + Desktop)</center></h1>
+
+<section id="storyboard" class="card">
+      <h2>Storyboard & UI Layout (Mobile + Desktop)</h2>
+
+      <h3>Mobile layout (min-width: 600px)</h3>
+      <p>Design: single-column stacked layout — header, nav (hamburger), profile, resume snapshot, sections in vertical order. Div groups: <code>&lt;header&gt;, &lt;nav&gt;, &lt;main&gt;, &lt;section id="about"&gt;, &lt;section id="resume"&gt;, etc.</code></p>
+            <figure>
+        <img src="../Assets/storyboard_mobile.jpg" alt="Mobile storyboard mockup" class="storyboard-img" />
+        <figcaption>Mobile storyboard mockup (replace with your image)</figcaption>
+      </figure>
+
+      <h3>Desktop layout (min-width: 950px)</h3>
+      <p>Design: two-column grid — left column (about & profile), right column (resume, vision, personality). Navigation visible across top. Div groups labeled with semantic sections (header/nav/main/aside/footer).</p>
+            <figure>
+        <img src="../Assets/Storyboard Portfolio- Monique Tomas-Bent.jpg" alt="Desktop storyboard mockup" class="storyboard-img" />
+        <figcaption>Desktop storyboard mockup (replace with your image)</figcaption>
+      </figure>
+
+      <h3>Colour palette & typography</h3>
+      <p>Primary: Purple — RGB(106,13,173)<br>
+         Accent: Gold — RGB(241,196,15)<br>
+         Background: Ivory — RGB(255,250,246)<br>
+         Font-family: "Times New Roman", Georgia, serif<br>
+         Root font-weight: 400</p>
+
+      <p><a href="../Assets/Storyboard Portfolio- Monique Tomas-Bent.pdf" target="_blank" rel="noopener">Download storyboard PDF</a> 
+
+      <p><b>GitHub:</b> 
+    <a href="https://github.com/Monique-Naje" target="_blank" rel="noopener">
+      github.com/Monique-Naje
+
+<hr>
+
+
+<section id="favourites" class="card"> 
+<h1><center>My favourite movies<span style='font-size:30px;'>&#127909;</span><c/center></h1>
+
+
+<table border="1" align="center" height="40%" width="40%" bgcolour="white" cellspacing="8" cellpadding="15">
+
+	<tr> 
+	<th>Movies</th> 
+	<th>Genre</th>
+	<tr align="center" > <td> Jurassic World </td> <td> scifi/action </td> </tr>
+	<tr> 
+	<th>Movies</th> 
+	<th>Genre</th>
+	<tr align="center" > <td> Ghost Rider </td> <td> Action/ Fantasy/ Thriller </td> </tr>
+<tr> 
+	<th>Movies</th> 
+	<th>Genre</th>
+	<tr align="center" > <td> Transformers </td> <td> scifi/action/ Sci-Fi </td> </tr>
+      </table>
+    </section>
+
+<hr>
+
+<section id="References" class="card">
+<h2><center>References-Works Cited</center></h2>
+<ul>
+    <li>
+      “ChatGPT.” 
+      <a href="https://chat.openai.com" target="_blank" rel="noopener">
+        ChatGPT, 2025.
+      </a>
+    </li>
+
+    <li>
+      Darktrace. 
+      “World–Leading AI for Cyber Security.” 
+      <a href="https://www.darktrace.com" target="_blank" rel="noopener">
+        www.darktrace.com
+      </a>
+    </li>
+
+    <li>
+      “Figma.” 
+      <a href="https://www.figma.com" target="_blank" rel="noopener">
+        www.figma.com
+      </a>
+    </li>
+
+    <li>
+      Rohn, Jim. 
+      <i>Twelve Pillars.</i> 
+      <a href="https://jimrohn.com" target="_blank" rel="noopener">
+        jimrohn.com
+      </a> 
+      (PDF edition)
+    </li>
+
+    <li>
+      “W3Schools.” 
+      <a href="https://www.w3schools.com" target="_blank" rel="noopener">
+        www.w3schools.com
+      </a>
+    </li>
+
+    <li>
+      “Welcome to UTech, Ja.” 
+      <a href="https://www.utech.edu.jm" target="_blank" rel="noopener">
+        www.utech.edu.jm
+      </a>
+    </li>
+  </ul>
+
+</main>
+
+
+  <footer>
+  <p>&copy; 2025 Monique Thomas-Bent | All Rights Reserved</p>
+  <p>
+    Contact: 
+    <a href="mailto:MONIQUENTHOMAS-BENT@students.utech.edu.jm">Email Me</a> |
+    <p><b>GitHub:</b> 
+    <a href="https://github.com/Monique-Naje" target="_blank" rel="noopener">
+      github.com/Monique-Naje</a>
+  </p>
+  <p><a href="#top">Back to Top</a></p>
+
+
+</footer>
+
+</body>
+</html>
+
+
+
+</body>
+</html>
